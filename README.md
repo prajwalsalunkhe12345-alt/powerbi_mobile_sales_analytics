@@ -83,9 +83,9 @@ It includes:
 
 | KPI | Value |
 |---|---:|
-| Total Sales | 769.20M approx. |
+| Total Sales | 769.20M. |
 | Total Quantity | 19K |
-| Transactions | 3,835 approx. |
+| Transactions | 3,835 . |
 | Average Price | 40.11K |
 
 ## 📈 Key Insights
